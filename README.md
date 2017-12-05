@@ -1,2 +1,2 @@
-# iobroker.scripts
+# Scripte für ioBroker
 
